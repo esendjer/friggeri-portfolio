@@ -2,15 +2,13 @@
 
 A LaTeX template for portfolio on the basis Friggeri Resume
 
-About
----
+## About
 
 This is a Latex template for portfolio created with the [mlda065/friggeri-letter](https://github.com/mlda065/friggeri-letter) which is created with the [friggeri-cv resume template](http://www.latextemplates.com/template/friggeri-resume-cv).
 ## 
 Это шаблон Latex для портфолио основан на [mlda065/friggeri-letter](https://github.com/mlda065/friggeri-letter), который основан на [friggeri-cv resume template](http://www.latextemplates.com/template/friggeri-resume-cv).
 
-Usage / Использование
----
+## Usage / Использование
 
 You may have to install these packages manually. List of packages used:
 * graphicx
