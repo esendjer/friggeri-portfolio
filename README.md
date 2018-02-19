@@ -1,3 +1,5 @@
+# Friggeri Portfolio
+
 ## About
 
 This is a Latex template for portfolio created with the [mlda065/friggeri-letter](https://github.com/mlda065/friggeri-letter) which is created with the [friggeri-cv resume template](http://www.latextemplates.com/template/friggeri-resume-cv).
